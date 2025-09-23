@@ -1,49 +1,68 @@
-Hi there 👋 I'm Amit Kumar
+👋 Hi, I'm Amit Kumar
 
-🎯 Passionate about Data Science, Machine Learning & Deep Learning
-💻 Currently a B.Tech CSE (7th Semester) student
-🛠️ Skilled in Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
-🤖 Completed multiple ML & DL Projects with real-world datasets
+🎯 Aspiring Data Scientist | ML & Deep Learning Enthusiast
+💻 B.Tech CSE (7th Semester)
+🛠️ Skills: Python 🐍 | NumPy 📊 | Pandas 🐼 | Matplotlib 📈 | Seaborn 🌈 | Scikit-learn 🤖 | TensorFlow ⚡ | Keras 💎 | ML & DL
+🤖 Projects: Heart Disease Prediction, Stock Price Prediction, Customer Churn Prediction, Sentiment Analysis
 
-🔗 Connect with me
+🔗 Connect with Me
 
-💼 LinkedIn
 
-🐙 GitHub
 
-📂 Featured Projects
-🫀 Heart Disease Prediction
 
-ML Project using KNN, Decision Tree, Naive Bayes, SVM
 
-Built with Python, Pandas, Scikit-learn, Streamlit
 
-Goal: Predict heart disease risk based on health factors
+🎁 Featured Projects (Gift-Style Cards)
+<div align="center">
 
-Status: ✅ Completed
 
-🔹 Other Real-World Projects
 
-Stock Price Prediction (LSTM) – Predict stock trends using Deep Learning
 
-Customer Churn Prediction (ML) – Identify likely churners for telecom companies
 
-Sentiment Analysis (NLP) – Analyze customer reviews using Natural Language Processing
 
-💡 Skills & Learning
 
-Python Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
 
-Machine Learning: Supervised & Unsupervised Learning, Regression, Classification, Clustering
+</div>
+💡 Skills & Expertise (GIF-style badges)
+<div align="center">
 
-Deep Learning: Neural Networks, CNN, RNN, LSTM
 
-Other Tools: Jupyter Notebook, Google Colab, Streamlit
 
-Goal 2025: Solve 100+ ML & Deep Learning questions, build real-world end-to-end projects, and secure a Data Science & ML internship
+
+
+
+
+
+</div>
+
+Machine Learning: Regression, Classification, Clustering, Decision Trees, Random Forest, SVM, KNN, Naive Bayes
+
+Deep Learning: Neural Networks, CNN, RNN, LSTM, GANs
+
+NLP: Text Preprocessing, Sentiment Analysis
+
+Tools & Platforms: Jupyter Notebook, Google Colab, Streamlit, Git, GitHub
 
 📊 GitHub Stats & Activity
+<div align="center">
+
+
+
+
+
+
+</div>
+🎯 Goals 2025
+<div align="center">
+
+
+
+
+
+
+
+
+</div>
 
 ✨ Always learning, always building 🚀
-
-💡 Note: Most used languages reflect Data Science focus – Python, Jupyter Notebook, SQL, etc.
+💡 Most used languages reflect Data Science focus: Python, Jupyter Notebook, SQL
