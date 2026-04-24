@@ -1,28 +1,53 @@
-# Hi there, I'm Amit Kumar! [cite_start]👋 [cite: 1]
+# 👨‍💻 Hi, I'm Amit Kumar! 🚀
 
-[cite_start]I am a motivated **Computer Science undergraduate** and an aspiring **Data Scientist/Analyst**. [cite_start]I love transforming raw data into actionable business insights using Machine Learning and Visualization tools[cite: 7].
-
-### 🛠️ Technical Toolbox
-- [cite_start]**Programming:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL 
-- [cite_start]**Data Visualization:** Power BI (DAX, Interactive Dashboards), Advanced Excel [cite: 10]
-- [cite_start]**Machine Learning:** Classification, Regression, Clustering, Feature Engineering [cite: 10]
-- [cite_start]**Tools:** Jupyter Notebook, Git, GitHub, VS Code, Streamlit [cite: 11]
-
-### 🚀 Featured Projects
-- **FIN-SHIELD AI:** An advanced web-based financial risk analysis and credit scoring system using machine learning.
-- [cite_start]**Customer Churn Prediction:** Built a predictive model using Logistic Regression and Random Forest to identify high-risk customers, achieving a 15% improvement in recall. [cite: 25, 26]
-- [cite_start]**Food Delivery Business Analytics:** End-to-end Power BI dashboard to track revenue growth and customer retention using complex DAX measures. [cite: 20, 21]
-- [cite_start]**Hospital Emergency Room Dashboard:** Engineered an interactive Excel dashboard that optimized staff allocation by 20%. [cite: 16, 18]
-
-### 🎓 Education & Certifications
-- **B.Tech in Computer Science & Engineering** - B.B.S.B. [cite_start]Engineering College (SGPA: 8.04) [cite: 29, 30]
-- [cite_start]**Python with Data Science Internship** - Qspiders [cite: 34]
-- [cite_start]**Technical Workshop on AI Agents** - ANSH InfoTech (Skill India Certified) [cite: 35]
-
-### 📫 Connect with Me:
-- [cite_start]**LinkedIn:** [linkedin.com/in/amitsingh0011](https://linkedin.com/in/amitsingh0011) [cite: 3]
-- [cite_start]**Email:** kumaramit841216@gmail.com [cite: 2]
-- [cite_start]**Location:** Noida, Uttar Pradesh [cite: 2]
+### 🌟 About Me
+I'm a passionate **Computer Science & Engineering student** and an aspiring **Data Scientist** based in Noida. I love turning messy data into beautiful, meaningful insights 📈. Currently, I'm sharpening my skills in **Machine Learning** and **Big Data Analytics**.
 
 ---
-*"Turning data into narratives and insights into impact."*
+
+### 🛠️ My Tech Stack
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | 🐍 Python, 🗄️ SQL (Advanced) |
+| **Data Science** | 🐼 Pandas, 🔢 NumPy, 🤖 Scikit-Learn |
+| **Visualization** | 📊 Power BI (DAX), 📉 Advanced Excel, 🎨 Matplotlib/Seaborn |
+| **ML Models** | 🌲 Random Forest, 📈 Logistic Regression, 🎯 Clustering |
+| **Others** | 🐙 Git/GitHub, 📓 Jupyter, 🚀 Streamlit, 💻 VS Code |
+
+---
+
+### 🚀 Key Projects
+
+#### 🛡️ [FIN-SHIELD AI](https://github.com/amit841216)
+* An advanced web-based **financial risk analysis** and credit scoring system.
+* Uses **Machine Learning** to predict financial stability and risk.
+
+#### 📉 [Customer Churn Prediction](https://github.com/amit841216)
+* Developed a predictive model using **Random Forest** to identify high-risk customers.
+* Achieved a **15% improvement in recall** through smart feature engineering.
+
+#### 🍕 [Food Delivery Business Analytics](https://github.com/amit841216)
+* End-to-end **Power BI dashboard** to track regional revenue and customer retention.
+* Implemented complex **DAX measures** for real-time performance tracking.
+
+#### 🏥 [Hospital Emergency Room Dashboard](https://github.com/amit841216)
+* Automated weekly reporting using **Advanced Excel** and KPIs.
+* Optimized staff allocation by **20%** by identifying peak hours.
+
+---
+
+### 🎓 Education & Experience
+* 🎓 **B.Tech in CSE** | B.B.S.B. Engineering College | **SGPA: 8.04**
+* 💼 **Data Science Intern** | Qspiders/PySpiders
+* 🏆 **AI Agents Workshop** | ANSH InfoTech (Skill India Certified)
+
+---
+
+### 📬 Let's Connect!
+* 💼 **LinkedIn:** [Amit Kumar](https://linkedin.com/in/amitsingh0011)
+* 📧 **Email:** [kumaramit841216@gmail.com](mailto:kumaramit841216@gmail.com)
+* 📍 **Location:** Noida, Uttar Pradesh 🇮🇳
+
+---
+⚡ *“Data is the new oil, but I prefer to call it the new fuel for intelligence.”*
