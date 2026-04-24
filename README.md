@@ -1,40 +1,28 @@
-# Hi there 👋 I'm Amit kumar  
+# Hi there, I'm Amit Kumar! [cite_start]👋 [cite: 1]
 
-🚀 Passionate about **Data Science & Machine Learning**  
-💻 Currently a **B.Tech CSE (7th Sem)** student  
-📊 Skilled in **Python, NumPy, Pandas, Scikit-learn**  
-🤖 Completed my first ML Project: **Heart Disease Prediction 🫀**  
+[cite_start]I am a motivated **Computer Science undergraduate** and an aspiring **Data Scientist/Analyst**. [cite_start]I love transforming raw data into actionable business insights using Machine Learning and Visualization tools[cite: 7].
 
----
+### 🛠️ Technical Toolbox
+- [cite_start]**Programming:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL 
+- [cite_start]**Data Visualization:** Power BI (DAX, Interactive Dashboards), Advanced Excel [cite: 10]
+- [cite_start]**Machine Learning:** Classification, Regression, Clustering, Feature Engineering [cite: 10]
+- [cite_start]**Tools:** Jupyter Notebook, Git, GitHub, VS Code, Streamlit [cite: 11]
 
-## 🔗 Connect with me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/Amitsingh0011)  
-- 🐙 [GitHub](https://github.com/amit841216)  
+### 🚀 Featured Projects
+- **FIN-SHIELD AI:** An advanced web-based financial risk analysis and credit scoring system using machine learning.
+- [cite_start]**Customer Churn Prediction:** Built a predictive model using Logistic Regression and Random Forest to identify high-risk customers, achieving a 15% improvement in recall. [cite: 25, 26]
+- [cite_start]**Food Delivery Business Analytics:** End-to-end Power BI dashboard to track revenue growth and customer retention using complex DAX measures. [cite: 20, 21]
+- [cite_start]**Hospital Emergency Room Dashboard:** Engineered an interactive Excel dashboard that optimized staff allocation by 20%. [cite: 16, 18]
 
----
+### 🎓 Education & Certifications
+- **B.Tech in Computer Science & Engineering** - B.B.S.B. [cite_start]Engineering College (SGPA: 8.04) [cite: 29, 30]
+- [cite_start]**Python with Data Science Internship** - Qspiders [cite: 34]
+- [cite_start]**Technical Workshop on AI Agents** - ANSH InfoTech (Skill India Certified) [cite: 35]
 
-## 📂 Featured Project  
-### 🫀 Heart Disease Prediction (ML Project)  
-A Machine Learning project using **KNN Classifier, Decision Trees, Naive Bayes, SVM**  
-🔹 Built with: Python, Scikit-learn, Pandas, Streamlit  
-🔹 Goal: Predict heart disease risk based on health factors  
-🔹 Status: ✅ Completed  
-
----
-
-## 🎯 Future Goals  
-- 🔜 Learn **Deep Learning (Neural Networks, CNN, RNN)**  
-- 🔜 Explore **Natural Language Processing (NLP)**  
-- 🔜 Build more **end-to-end Data Science projects**  
-- 🔜 Apply for **Data Science & ML internships**  
+### 📫 Connect with Me:
+- [cite_start]**LinkedIn:** [linkedin.com/in/amitsingh0011](https://linkedin.com/in/amitsingh0011) [cite: 3]
+- [cite_start]**Email:** kumaramit841216@gmail.com [cite: 2]
+- [cite_start]**Location:** Noida, Uttar Pradesh [cite: 2]
 
 ---
-
-## 📊 GitHub Stats  
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit841216&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit841216&layout=compact&theme=tokyonight)  
-
----
-
-✨ Always learning, always building 🚀       
+*"Turning data into narratives and insights into impact."*
